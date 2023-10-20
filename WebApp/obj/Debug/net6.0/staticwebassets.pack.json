@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\WebApp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\quan2um_kille0\\Documents\\Software Development Projects\\.NET Projects\\ASP.NET-6-MVC Project-1\\WebApp\\WebApp\\wwwroot\\css\\SignIn_Index.css",
+      "PackagePath": "staticwebassets\\css\\SignIn_Index.css"
+    },
+    {
       "Id": "C:\\Users\\quan2um_kille0\\Documents\\Software Development Projects\\.NET Projects\\ASP.NET-6-MVC Project-1\\WebApp\\WebApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
