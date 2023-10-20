@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8pSj0sJyfjhYmiuvmhXHa/ezrmnuxiEiIysOJQ7mpR8=",
+  "Hash": "2PbDOsoh7Ik9KKgnWB+X7BGGO8h1KVOYIaS9XkX2tKw=",
   "Source": "WebApp",
   "BasePath": "_content/WebApp",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\quan2um_kille0\\Documents\\Software Development Projects\\.NET Projects\\ASP.NET-6-MVC Project-1\\WebApp\\WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\quan2um_kille0\\Documents\\Software Development Projects\\.NET Projects\\ASP.NET-6-MVC Project-1\\WebApp\\WebApp\\wwwroot\\css\\SignIn_Index.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\quan2um_kille0\\Documents\\Software Development Projects\\.NET Projects\\ASP.NET-6-MVC Project-1\\WebApp\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "css/SignIn_Index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\SignIn_Index.css"
     },
     {
       "Identity": "C:\\Users\\quan2um_kille0\\Documents\\Software Development Projects\\.NET Projects\\ASP.NET-6-MVC Project-1\\WebApp\\WebApp\\wwwroot\\css\\site.css",
